@@ -98,6 +98,18 @@ GLM settings:
 
 ---
 
+## Example Outputs
+
+### Design Matrix
+
+![Design Matrix](figures/design_matrix_first_level.png)
+
+### Face vs House Contrast
+
+![Face vs House](figures/face_vs_house_stat_map.png)
+
+---
+
 ## Why This Repository Matters
 
 This project demonstrates competency in:
