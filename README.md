@@ -42,7 +42,8 @@ A canonical public task-fMRI dataset widely used in neuroimaging education and r
 
 ## Repository Structure
 
-```repo5-task-fmri-glm-cognitive-activation/
+```text
+repo5-task-fmri-glm-cognitive-activation/
 │── notebooks/
 │   ├── 01_dataset_audit.ipynb
 │   ├── 02_first_level_glm.ipynb
